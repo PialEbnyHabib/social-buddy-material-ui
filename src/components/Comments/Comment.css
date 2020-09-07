@@ -1,0 +1,4 @@
+.comment-box{
+    display: flex;
+    box-shadow: 5px 5px 10px grey;
+}
